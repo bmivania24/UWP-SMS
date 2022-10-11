@@ -1,5 +1,5 @@
 # UWP-SMS
-Solution UWP-API to send SMS
+Solution UWP-API to send SMS using Twilio
  ## Architecture and Design Implemented:
     -DB> Database Scripts
     -SolutionApiSMS> Web api to send SMS using TW
